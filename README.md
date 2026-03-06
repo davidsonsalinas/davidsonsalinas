@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-I'm <b>Davidson Salinas</b>, a Full Stack Developer focused on <b>Python Backend</b> and <b>Next.js Frontend</b>.
+I'm <b>Davidson Salinas</b>, a Full Stack Developer focused on <b>Python</b>, <b>Go</b> and <b>Next.js</b>.
 <br>
 I build scalable systems, APIs and modern web applications.
 </p>
@@ -13,6 +13,7 @@ I build scalable systems, APIs and modern web applications.
 ## Backend
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
